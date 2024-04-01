@@ -157,7 +157,7 @@
 		bindings = <
 		 		&bhm LCTL L    &bhm LALT G     &bhm LGUI D 		&bhm RGUI H    &bhm LALT U        &bhm RCTL O	  
 		&bhm LSHIFT I     &kp S     &kp R     &kp T  	 	 &kp N     &kp E         &kp A     &bhm RSHIFT C
-			 	 		 		&hl_l AL2 ESC      &hl_l NM1 SPACE  &hl_r SM1 BSPC &hl_r SM2 ENTER	 	
+			 	 		 		&hl_l AL2 ESC      &hl_l NUM SPACE  &hl_r SM1 BSPC &hl_r SM2 ENTER	 	
 		>;
 		};
        		alpha2 {
