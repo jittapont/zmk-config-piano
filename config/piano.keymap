@@ -40,7 +40,7 @@
         combo_num {
             timeout-ms = <30>;
             key-positions = <7 8 9>;
-            bindings = <&sl NUM>;
+            bindings = <&sl NM1>;
         };
         combo_al2 {
             timeout-ms = <30>;
