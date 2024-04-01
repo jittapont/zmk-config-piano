@@ -32,6 +32,21 @@
 / { 
     combos {
         compatible = "zmk,combos";
+        combo_caps {
+            timeout-ms = <30>;
+            key-positions = <10 11 12>;
+            bindings = <&caps_word>;
+        };
+        combo_num {
+            timeout-ms = <30>;
+            key-positions = <7 8 9>;
+            bindings = <&sl NUM>;
+        };
+        combo_al2 {
+            timeout-ms = <30>;
+            key-positions = <0 1 2>;
+            bindings = <&sl AL2>;
+        };
 //        combo_sys {
 //            timeout-ms = <30>;
 //	    key-positions = <3 4 5>;
